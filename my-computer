@@ -1,1 +1,49 @@
+# My computer
+
+## Processor
+
+* Model
+: Intel(R) Core(TM) i7-8550U 
+* Frequency
+: 1,80 Ghz
+
+## Memory
+
+* Size
+: 8,00 GB
+
+## Operating system
+
+* Name
+: Windows 11 Famille
+* Version
+: 21H2
+
+## Storage
+
+* Partition 1 :
+  * Windows (C:)
+: /boot
+  * Total space
+: 224,GB
+  * Free space
+: 61,97GB
+  * Type
+: NTFS
+* Partition 2 :
+  * RECOVERY (D:)
+: /
+  * Total space
+: 13,07GB
+  * Free space
+: 1,59GB
+  * Type
+: NTFS
+
+## Network
+
+* External IP address
+: 92.158.72.198
+* Local IP address
+ : 192.168. 1.14
 
